@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c3442127fc0ff934c99d47529d0e4362
+timeCreated: 1493483668
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pfFloor: {fileID: 1000013467638038, guid: 42cf35e1e441df040941c201539da7f9, type: 2}
+  - map: {instanceID: 0}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

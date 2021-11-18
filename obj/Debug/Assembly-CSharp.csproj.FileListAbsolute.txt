@@ -1,0 +1,46 @@
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEditor.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Mono.Cecil.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Unity.DataContract.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.xml
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEditor.xml
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\obj\Debug\Assembly-CSharp.dll
+D:\Curso Unity\Jonatan lledo llacer\Proyecto final\PacMan\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\obj\Debug\Assembly-CSharp.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Alumno\Documents\ALUMNOS\Jonatan lledo llacer\Proyecto final\PacMan\Temp\bin\Debug\UnityEngine.Analytics.xml
